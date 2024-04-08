@@ -1,0 +1,15 @@
+{
+    "name": "malta/red_social",
+    "description": "server app",
+    "autoload": {
+        "psr-4": {
+            "Malta\\RedSocial\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cd"
+        }
+    ],
+    "require": {}
+}
